@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Erick and I'm a System Analysis and Development student, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Erick and I'm a System Analysis and Development student, from Brazil.</h2>
 
 ###
 
