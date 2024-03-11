@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! My name is Erick and I'm a System Analysis and Development student, from Brazil</h2>
+<h2 align="left">Hi! My name is Erick and I'm a System Analysis and Development student, from Brazil</h2>
 
 ###
 
-<br clear="both">
-
 ![Erick0105's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick0105&show_icons=true&theme=vision-friendly-dark)
-
 
 ###
 
