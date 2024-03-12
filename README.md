@@ -10,7 +10,7 @@
 - 🌱 I’m currently studying System Analysis and Development at FIAP                                         <img align="right" height="150" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif"  />
 - 🔭 I am looking for my first job opportunity.                             
 - 💬 contact me by email: erickspot01@gmail.com                                       
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 
 ###
 
