@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Erick and I'm a System Analysis and Development student, from Brazil</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan&size=30&pause=1500&color=FFB000&vCenter=true&random=false&width=850&height=60&lines=Hello%2C+I'm+Erick!!!;I'm+a+System+Analysis+and+Development+student%2C+from+Brazil)](https://git.io/typing-svg)
 
 ###
 
