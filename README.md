@@ -3,6 +3,7 @@
 ###
 
 ![Erick0105's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick0105&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0105&layout=compact&theme=vision-friendly-dark)
 
 ###
 
