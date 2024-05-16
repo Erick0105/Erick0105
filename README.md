@@ -8,8 +8,8 @@
 <p>- 😄 Pronouns: he/him</p>
 
 
-<a href="" target="_blank">![Static Badge](https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=instagram&logoColor=white&color=%23D83A5C)</a>
-<a href="" target="_blank">![Static Badge](https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
+<a href="https://www.instagram.com/erick_0105_?igsh=bG1semNyYmNpZzEw" target="_blank">![Static Badge](https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=instagram&logoColor=white&color=%23D83A5C)</a>
+<a href="https://www.linkedin.com/in/erick-alves-295180235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">![Static Badge](https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)</a>
 
 
 ---
