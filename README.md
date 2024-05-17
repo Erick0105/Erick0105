@@ -23,7 +23,7 @@
 
 #### Tools that I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,sketchup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,sketchup,ps)](https://skillicons.dev)
 </div>
 
 ---
