@@ -32,8 +32,8 @@
 <summary>Github Stats 📊</summary>
 <br/>
 
-![Erick0105's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick0105&show_icons=true&theme=vision-friendly-dark&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0105&layout=compact&theme=vision-friendly-dark&langs_count=8)
+| ![Erick0105's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick0105&show_icons=true&theme=vision-friendly-dark&hide=contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0105&layout=compact&theme=vision-friendly-dark&langs_count=8) |
+| ------------- | ------------- |
 </details>
 
 <img src="https://raw.githubusercontent.com/Erick0105/Erick0105/output/snake.svg" alt="Snake animation" align="center" />
