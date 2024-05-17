@@ -9,7 +9,7 @@
 
 
 [![Static Badge](https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=instagram&logoColor=white&color=%23D83A5C)](https://www.instagram.com/erick_0105_/)
-[![Static Badge](https://img.shields.io/badge/instagram-1?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/erick-alves-295180235/)
+[![Static Badge](https://img.shields.io/badge/linkedin-1?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/erick-alves-295180235/)
 
 
 ---
