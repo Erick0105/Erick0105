@@ -1,6 +1,7 @@
+<div>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=1BF700&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Erick!!!;I'm+a+System+Analysis+Development+Student)](https://git.io/typing-svg)
 
-<div>
 <p>- 🌱 I’m currently studying System Analysis and Development at FIAP</p>                                         
 <img align=right height=150px src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif"  />
 <p>- 🔭 I am looking for my first job opportunity.</p>                             
@@ -28,7 +29,8 @@
 </div>
 
 ---
-
+<div align=center>
+  
 <details>
 <summary>Github Stats 📊</summary>
 <br/>
@@ -39,3 +41,5 @@
 </details>
 
 <img src="https://raw.githubusercontent.com/Erick0105/Erick0105/output/snake.svg" alt="Snake animation" align="center" />
+
+</div>
