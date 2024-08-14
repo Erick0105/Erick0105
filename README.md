@@ -35,7 +35,7 @@
 <summary>Github Stats 📊</summary>
 <br/>
 
-| ![Erick0105's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick0105&show_icons=true&theme=chartreuse-dark&hide=contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0105&layout=compact&theme=chartreuse-dark&langs_count=8) |
+| ![Erick0105's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick0105&show_icons=true&theme=chartreuse-dark&hide=contribs) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick0105&layout=compact&theme=chartreuse-dark&langs_count=10) |
 | ------------- | ------------- |
 |[![GitHub Streak](https://streak-stats.demolab.com?user=Erick0105&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=FF0000&background=85%2C000000%2C0B220A)](https://git.io/streak-stats)|
 </details>
