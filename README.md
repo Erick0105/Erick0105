@@ -21,7 +21,7 @@
 
 #### Languages that I use
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,python)](https://skillicons.dev)
 
 #### Tools that I use
 
