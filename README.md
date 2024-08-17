@@ -5,7 +5,7 @@
 <p>- 🌱 I’m currently studying System Analysis and Development at FIAP</p>                                         
 <img align=right height=150px src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif"  />
 <p>- 🔭 I am looking for my first job opportunity.</p>                             
-<p>- 💬 contact me by email: erickspot01@gmail.com</p>                                       
+<p>- 💬 contact me by email: erickaxs0105@gmail.com</p>                                       
 <p>- 😄 Pronouns: he/him</p>
 </div>
 
