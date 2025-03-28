@@ -21,11 +21,11 @@
 
 #### Languages that I use
   
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,python,arduino,cs,cpp,dotnet,ruby,tailwind,vite,windows,linux&perline=8)](https://skillicons.dev)
 
 #### Tools that I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,sketchup,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,figma,sketchup,ps,azure,git,rider,vscode&perline=6)](https://skillicons.dev)
 </div>
 
 ---
